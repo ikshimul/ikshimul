@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I am Inzamamul karim
+### Hi there I'm Inzamamul Karim
 
 ![](https://komarev.com/ghpvc/?username=ikshimul)
 <!--
