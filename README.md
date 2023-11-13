@@ -2,6 +2,7 @@
 
 I am Inzamamul karim
 
+![](https://komarev.com/ghpvc/?username=ikshimul)
 <!--
 **ikshimul/ikshimul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
