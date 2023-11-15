@@ -6,15 +6,15 @@ I'm a programmer working at [SELISE Digital Platforms](https://selisegroup.com/)
 
 # What skills do I have?
 
-TECHNICAL SKILLS & KNOWLEDGE
-Front-end: 
+##TECHNICAL SKILLS & KNOWLEDGE
+**Front-end:**
 	Language: HTML5, CSS3, Bootstrap, JavaScript, jQuery, Liveware, React
 	Framework: Next JS
-Back-end: 
+**Back-end:**
 	Language: PHP
 	Framework: CodeIgniter, Laravel
 	Database: MySQL, SQL
-Software Development Ecosystem: 
+**Software Development Ecosystem:**
 	Code repository: git
 	CI/CD: GitHub Actions, Azure Pipelines
 	Project Management: Azure Boards, Trello Board
