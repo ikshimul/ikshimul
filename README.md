@@ -14,9 +14,9 @@ I'm a programmer working at [SELISE Digital Platforms](https://selisegroup.com/)
    - **Framework:** CodeIgniter, Laravel
    - **Database:** MySQL, SQL
 - **Software Development Ecosystem:**
-	Code repository: git
-	CI/CD: GitHub Actions, Azure Pipelines
-	Project Management: Azure Boards, Trello Board
+   - **Code repository:** git
+   - **CI/CD:** GitHub Actions, Azure Pipelines
+   - **Project Management:** Azure Boards, Trello Board
 
 
 <!--
