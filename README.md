@@ -3,6 +3,23 @@ I'm a programmer working at [SELISE Digital Platforms](https://selisegroup.com/)
 
 
 ![](https://komarev.com/ghpvc/?username=ikshimul)
+
+# What skills do I have?
+
+TECHNICAL SKILLS & KNOWLEDGE
+Front-end: 
+	Language: HTML5, CSS3, Bootstrap, JavaScript, jQuery, Liveware, React
+	Framework: Next JS
+Back-end: 
+	Language: PHP
+	Framework: CodeIgniter, Laravel
+	Database: MySQL, SQL
+Software Development Ecosystem: 
+	Code repository: git
+	CI/CD: GitHub Actions, Azure Pipelines
+	Project Management: Azure Boards, Trello Board
+
+
 <!--
 **ikshimul/ikshimul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
