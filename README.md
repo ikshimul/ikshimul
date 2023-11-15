@@ -8,7 +8,7 @@ I'm a programmer working at [SELISE Digital Platforms](https://selisegroup.com/)
 ## TECHNICAL SKILLS & KNOWLEDGE
 - **Front-end:**
    - **Language:** • HTML5 • CSS3 • Bootstrap • JavaScript • jQuery • Liveware • React
-   -**Framework:**  • Next JS
+   - **Framework:**  • Next JS
 - **Back-end:**
 	Language: PHP
 	Framework: CodeIgniter, Laravel
