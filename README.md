@@ -19,7 +19,8 @@ I'm a programmer working at [SELISE Digital Platforms](https://selisegroup.com/)
    - **Project Management:** • Azure Boards • Trello Board
 
 - **Code editors:**
-<a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
+   -**<a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>**
+<a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
 <!--
 **ikshimul/ikshimul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
